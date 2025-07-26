@@ -6,16 +6,9 @@ All notable changes to this project will be documented in this file.
 
 Added
 
-
-
-
-
 Initial project setup with core functionality.
 
-
-
 Created main interface for user interaction.
-
 
 
 Added documentation for setup and usage.
@@ -23,15 +16,9 @@ Added documentation for setup and usage.
 Changed
 
 
-
-
-
 N/A
 
 Fixed
-
-
-
 
 
 N/A
@@ -41,11 +28,7 @@ N/A
 Added
 
 
-
-
-
 Prototype for core features.
-
 
 
 Basic project structure and dependencies.
@@ -53,15 +36,8 @@ Basic project structure and dependencies.
 Changed
 
 
-
-
-
 N/A
 
 Fixed
-
-
-
-
 
 N/A
